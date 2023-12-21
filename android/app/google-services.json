@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662155170091",
+    "project_id": "newsviews-b2caa",
+    "storage_bucket": "newsviews-b2caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662155170091:android:27c92a9eeb83c365ee356e",
+        "android_client_info": {
+          "package_name": "com.example.uday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXPj1ScoyjxIiAQvAoKLrQqev4k7qrlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
