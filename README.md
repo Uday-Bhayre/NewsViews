@@ -2,15 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NewsViews is a Flutter application designed to provide users with a convenient way to browse and view news articles from various sources. With an intuitive user interface, users can easily navigate through different categories and discover the latest headlines. The app fetches news data from reputable sources and presents them in a visually appealing manner, making it easy for users to stay informed about current events. Features may include bookmarking articles for later reading, sharing articles with friends, and customizable preferences for a personalized news experience. Whether you're interested in politics, technology, sports, or entertainment, NewsViews has you covered with a diverse range of news topics to explore
